@@ -12,3 +12,4 @@ for (;;) {
 }
 
 console.log(`O somatório dos números é: ${somatorio}`);
+}
