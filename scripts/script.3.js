@@ -4,7 +4,7 @@ let numero;
 for (;;) {
     numero = parseFloat(prompt("Digite um número (0 para sair):"));
     if (numero === 0) {
-        break; // Sai do laço quando o número for 0
+        break; 
     }
     if (numero > 0) {
         somatorio += numero;
